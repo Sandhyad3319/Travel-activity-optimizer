@@ -1,0 +1,15 @@
+RUN SUCCESSFUL
+TRAVEL ACTIVITY OPTIMIZER
+Budget: ₹1800; time limit: 7 hours
+LP relaxation maximum enjoyment (fractional allowed): 27.33
+
+Recommended itinerary (whole activities only):
+- Museum visit: ₹500, 2 hours, 7 enjoyment points
+- City walking tour: ₹300, 3 hours, 8 enjoyment points
+- Local food experience: ₹700, 2 hours, 9 enjoyment points
+
+Totals
+Activities: 3
+Cost: ₹1500 / ₹1800
+Time: 7 / 7 hours
+Enjoyment: 24 points
